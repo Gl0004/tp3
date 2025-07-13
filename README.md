@@ -1,6 +1,8 @@
 # TP3 - Analyse et prédiction des déchets ménagers à Paris
 
 ## 📁 Structure du projet
+
+```
 tp3/
 ├── build.sbt
 ├── src/
@@ -17,6 +19,7 @@ tp3/
 │           ├── model_results.csv
 ├── dashboard.ipynb
 ├── README.md
+```
 
 ## ⚙️ Technologies utilisées
 
